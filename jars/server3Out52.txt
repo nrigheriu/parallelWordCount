@@ -1,0 +1,466 @@
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+Connection Accepted: /127.0.0.1:3000
+
+shutting down
+-----
+Response time percentiles [ms]: 
+Clean size:2000000
+1 cleaning:3.75103E-4
+1 serializing:0.182567
+1 receiving:1.32711
+1 wordCount:0.001194011
+2 cleaning:3.91121E-4
+2 serializing:0.212007
+2 receiving:1.595015
+2 wordCount:0.001402008
+3 cleaning:4.69819E-4
+3 serializing:0.235946
+3 receiving:1.820731
+3 wordCount:0.001652668
+4 cleaning:5.23119E-4
+4 serializing:0.26302
+4 receiving:1.971064
+4 wordCount:0.001790459
+5 cleaning:5.66192E-4
+5 serializing:0.296202
+5 receiving:2.184052
+5 wordCount:0.001912094
+6 cleaning:6.24182E-4
+6 serializing:0.343386
+6 receiving:2.567862
+6 wordCount:0.002257942
+7 cleaning:7.77326E-4
+7 serializing:0.362801
+7 receiving:2.676152
+7 wordCount:0.002423743
+8 cleaning:7.91553E-4
+8 serializing:0.41818
+8 receiving:2.790265
+8 wordCount:0.002491781
+9 cleaning:8.91197E-4
+9 serializing:0.495289
+9 receiving:3.044288
+9 wordCount:0.002737825
+10 cleaning:0.001032988
+10 serializing:0.507749
+10 receiving:3.659065
+10 wordCount:0.003319704
+11 cleaning:0.001153123
+11 serializing:0.520803
+11 receiving:3.868907
+11 wordCount:0.003613252
+12 cleaning:0.001155534
+12 serializing:0.527088
+12 receiving:3.899442
+12 wordCount:0.003633373
+13 cleaning:0.001158034
+13 serializing:0.53166
+13 receiving:3.916289
+13 wordCount:0.003643521
+14 cleaning:0.001159681
+14 serializing:0.534043
+14 receiving:3.936714
+14 wordCount:0.003651441
+15 cleaning:0.001160839
+15 serializing:0.536359
+15 receiving:3.945389
+15 wordCount:0.003656531
+16 cleaning:0.001161748
+16 serializing:0.538183
+16 receiving:3.954724
+16 wordCount:0.003661159
+17 cleaning:0.001162352
+17 serializing:0.53942
+17 receiving:3.960248
+17 wordCount:0.003668745
+18 cleaning:0.001162791
+18 serializing:0.540104
+18 receiving:3.966817
+18 wordCount:0.003673498
+19 cleaning:0.001163239
+19 serializing:0.541531
+19 receiving:3.974764
+19 wordCount:0.003674668
+20 cleaning:0.001163643
+20 serializing:0.54226
+20 receiving:3.98332
+20 wordCount:0.003678066
+21 cleaning:0.001164147
+21 serializing:0.543325
+21 receiving:3.992534
+21 wordCount:0.003680211
+22 cleaning:0.001164797
+22 serializing:0.54385
+22 receiving:3.997521
+22 wordCount:0.003682925
+23 cleaning:0.001165145
+23 serializing:0.544581
+23 receiving:4.001914
+23 wordCount:0.003687199
+24 cleaning:0.001165602
+24 serializing:0.54542
+24 receiving:4.00543
+24 wordCount:0.003689855
+25 cleaning:0.001165907
+25 serializing:0.546172
+25 receiving:4.0092
+25 wordCount:0.003690958
+26 cleaning:0.001166227
+26 serializing:0.547213
+26 receiving:4.011883
+26 wordCount:0.003692818
+27 cleaning:0.001166641
+27 serializing:0.547788
+27 receiving:4.014912
+27 wordCount:0.003696164
+28 cleaning:0.001166938
+28 serializing:0.548379
+28 receiving:4.018814
+28 wordCount:0.003697564
+29 cleaning:0.001167093
+29 serializing:0.549037
+29 receiving:4.021188
+29 wordCount:0.003699144
+30 cleaning:0.001167324
+30 serializing:0.549976
+30 receiving:4.024042
+30 wordCount:0.003700869
+31 cleaning:0.001167734
+31 serializing:0.550591
+31 receiving:4.025592
+31 wordCount:0.003702488
+32 cleaning:0.001167964
+32 serializing:0.551404
+32 receiving:4.027816
+32 wordCount:0.003703901
+33 cleaning:0.001168412
+33 serializing:0.552338
+33 receiving:4.030035
+33 wordCount:0.003705517
+34 cleaning:0.001168721
+34 serializing:0.552989
+34 receiving:4.03312
+34 wordCount:0.00370775
+35 cleaning:0.001168921
+35 serializing:0.554584
+35 receiving:4.034517
+35 wordCount:0.003709497
+36 cleaning:0.00116914
+36 serializing:0.555967
+36 receiving:4.038152
+36 wordCount:0.003711585
+37 cleaning:0.001169397
+37 serializing:0.556808
+37 receiving:4.040064
+37 wordCount:0.003713188
+38 cleaning:0.001169682
+38 serializing:0.558915
+38 receiving:4.043872
+38 wordCount:0.003715661
+39 cleaning:0.001169885
+39 serializing:0.559958
+39 receiving:4.047078
+39 wordCount:0.003717703
+40 cleaning:0.001170299
+40 serializing:0.562166
+40 receiving:4.048693
+40 wordCount:0.003720074
+41 cleaning:0.001170593
+41 serializing:0.563493
+41 receiving:4.050192
+41 wordCount:0.003722691
+42 cleaning:0.001170986
+42 serializing:0.565763
+42 receiving:4.052359
+42 wordCount:0.003724966
+43 cleaning:0.001171223
+43 serializing:0.568401
+43 receiving:4.057613
+43 wordCount:0.003726459
+44 cleaning:0.001171486
+44 serializing:0.570244
+44 receiving:4.061024
+44 wordCount:0.003728759
+45 cleaning:0.001171838
+45 serializing:0.571972
+45 receiving:4.065375
+45 wordCount:0.003730293
+46 cleaning:0.001172145
+46 serializing:0.573011
+46 receiving:4.067788
+46 wordCount:0.003731436
+47 cleaning:0.001172307
+47 serializing:0.574385
+47 receiving:4.071526
+47 wordCount:0.003734793
+48 cleaning:0.001172737
+48 serializing:0.575358
+48 receiving:4.076702
+48 wordCount:0.003736992
+49 cleaning:0.001173065
+49 serializing:0.576839
+49 receiving:4.08081
+49 wordCount:0.003738835
+50 cleaning:0.001173611
+50 serializing:0.577472
+50 receiving:4.086654
+50 wordCount:0.003741338
+51 cleaning:0.00117388
+51 serializing:0.57829
+51 receiving:4.089668
+51 wordCount:0.00374383
+52 cleaning:0.001174642
+52 serializing:0.579941
+52 receiving:4.093683
+52 wordCount:0.003745913
+53 cleaning:0.001175066
+53 serializing:0.580726
+53 receiving:4.098146
+53 wordCount:0.003747777
+54 cleaning:0.001175474
+54 serializing:0.582022
+54 receiving:4.103362
+54 wordCount:0.003750278
+55 cleaning:0.001176052
+55 serializing:0.583534
+55 receiving:4.108216
+55 wordCount:0.003751947
+56 cleaning:0.001176479
+56 serializing:0.584634
+56 receiving:4.113572
+56 wordCount:0.00375658
+57 cleaning:0.00117669
+57 serializing:0.58591
+57 receiving:4.120018
+57 wordCount:0.003759791
+58 cleaning:0.001176949
+58 serializing:0.587076
+58 receiving:4.123988
+58 wordCount:0.003763652
+59 cleaning:0.001177601
+59 serializing:0.588131
+59 receiving:4.128712
+59 wordCount:0.003767039
+60 cleaning:0.001178095
+60 serializing:0.589314
+60 receiving:4.131649
+60 wordCount:0.003768175
+61 cleaning:0.001178514
+61 serializing:0.590092
+61 receiving:4.138202
+61 wordCount:0.003772266
+62 cleaning:0.001178921
+62 serializing:0.590963
+62 receiving:4.144691
+62 wordCount:0.003774808
+63 cleaning:0.00117988
+63 serializing:0.591914
+63 receiving:4.148103
+63 wordCount:0.003778642
+64 cleaning:0.001180626
+64 serializing:0.592842
+64 receiving:4.150176
+64 wordCount:0.003780244
+65 cleaning:0.001181017
+65 serializing:0.593676
+65 receiving:4.157341
+65 wordCount:0.003782962
+66 cleaning:0.001181952
+66 serializing:0.594649
+66 receiving:4.161234
+66 wordCount:0.003790164
+67 cleaning:0.001182914
+67 serializing:0.596372
+67 receiving:4.168843
+67 wordCount:0.003796978
+68 cleaning:0.001183546
+68 serializing:0.597129
+68 receiving:4.176771
+68 wordCount:0.003798575
+69 cleaning:0.001184248
+69 serializing:0.60004
+69 receiving:4.183637
+69 wordCount:0.003805149
+70 cleaning:0.001186306
+70 serializing:0.603284
+70 receiving:4.193416
+70 wordCount:0.003814202
+71 cleaning:0.001187358
+71 serializing:0.605009
+71 receiving:4.205266
+71 wordCount:0.003820925
+72 cleaning:0.0011884
+72 serializing:0.608159
+72 receiving:4.223861
+72 wordCount:0.003837973
+73 cleaning:0.001190207
+73 serializing:0.611819
+73 receiving:4.251506
+73 wordCount:0.003856677
+74 cleaning:0.001191711
+74 serializing:0.61582
+74 receiving:4.286465
+74 wordCount:0.003875428
+75 cleaning:0.001192664
+75 serializing:0.619033
+75 receiving:4.329512
+75 wordCount:0.003914736
+76 cleaning:0.001195578
+76 serializing:0.621283
+76 receiving:4.3822
+76 wordCount:0.003986512
+77 cleaning:0.001197848
+77 serializing:0.627155
+77 receiving:4.448523
+77 wordCount:0.004047756
+78 cleaning:0.001199355
+78 serializing:0.635898
+78 receiving:4.469121
+78 wordCount:0.004072921
+79 cleaning:0.001202755
+79 serializing:0.641937
+79 receiving:4.490679
+79 wordCount:0.004087066
+80 cleaning:0.001205213
+80 serializing:0.646458
+80 receiving:4.513656
+80 wordCount:0.004102944
+81 cleaning:0.001210249
+81 serializing:0.660759
+81 receiving:4.542876
+81 wordCount:0.004132452
+82 cleaning:0.001215842
+82 serializing:0.698523
+82 receiving:4.567911
+82 wordCount:0.004173644
+83 cleaning:0.00122343
+83 serializing:0.743859
+83 receiving:4.601529
+83 wordCount:0.004201155
+84 cleaning:0.001232232
+84 serializing:0.76057
+84 receiving:4.66163
+84 wordCount:0.004247922
+85 cleaning:0.001244242
+85 serializing:0.769225
+85 receiving:4.730063
+85 wordCount:0.00430214
+86 cleaning:0.001275287
+86 serializing:0.782844
+86 receiving:4.750113
+86 wordCount:0.004351209
+87 cleaning:0.001329941
+87 serializing:0.803639
+87 receiving:4.789951
+87 wordCount:0.004367251
+88 cleaning:0.001334958
+88 serializing:0.828071
+88 receiving:4.830598
+88 wordCount:0.004405104
+89 cleaning:0.001338773
+89 serializing:0.877853
+89 receiving:4.901099
+89 wordCount:0.004461952
+90 cleaning:0.001349787
+90 serializing:0.898741
+90 receiving:5.085478
+90 wordCount:0.004595585
+91 cleaning:0.001366502
+91 serializing:0.909064
+91 receiving:5.335563
+91 wordCount:0.004823006
+92 cleaning:0.001382789
+92 serializing:0.932888
+92 receiving:5.465359
+92 wordCount:0.005095174
+93 cleaning:0.00152784
+93 serializing:0.968824
+93 receiving:5.730709
+93 wordCount:0.005268324
+94 cleaning:0.001610138
+94 serializing:1.167963
+94 receiving:5.875392
+94 wordCount:0.005551795
+95 cleaning:0.001661962
+95 serializing:1.182022
+95 receiving:5.986538
+95 wordCount:0.005618583
+96 cleaning:0.001727372
+96 serializing:1.214399
+96 receiving:6.227658
+96 wordCount:0.005674523
+97 cleaning:0.001764869
+97 serializing:1.385466
+97 receiving:6.481053
+97 wordCount:0.005818221
+98 cleaning:0.00179733
+98 serializing:1.62377
+98 receiving:7.111218
+98 wordCount:0.006277897
+99 cleaning:0.001868727
+99 serializing:1.970112
+99 receiving:8.49913
+99 wordCount:0.00786628
+100 cleaning:0.004885356
+100 serializing:7.625566
+100 receiving:19.146082
+100 wordCount:0.01806776
+Receiving times: 8414297.0 with average:4.2071486
+Serializing sum: 1309161.9 with average:0.65458095
+WordCount sum: 7793.1655 with average:0.0038965829
+Cleantime Sum: 2388.1843 with average:0.0011940922
+Connection Accepted: /127.0.0.1:3000
+
+shutting down
+-----
+Response time percentiles [ms]: 
+Clean size:0

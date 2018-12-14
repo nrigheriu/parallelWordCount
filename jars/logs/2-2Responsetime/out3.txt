@@ -1,0 +1,4 @@
+Clients: 3
+Interval time [s], Throughput [ops/s]: 1.0005442, 5847.818
+Interval time [s], Throughput [ops/s]: 0.64074403, 6475.2847
+Average response time:0.16045544127300382

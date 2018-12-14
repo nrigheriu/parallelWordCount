@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed58ead1-a89b-486a-bfc3-83a28c5c5bc7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1650683250">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="11" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="10501" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10501" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/imdea/software/WoCoClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#WoCoClient#0;class#WoCoClient#0" />
+                <element signature="docComment;method#shutDown#0;class#WoCoClient#0" />
+                <element signature="method#shutDown#0;class#WoCoClient#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/imdea/software/WoCoServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1022">
+              <caret line="361" column="31" lean-forward="true" selection-start-line="361" selection-start-column="31" selection-end-line="362" selection-end-column="45" />
+              <folding>
+                <element signature="docComment;method#WoCoServer#0;class#WoCoServer#0" />
+                <element signature="docComment;method#receiveData#0;class#WoCoServer#0" />
+                <element signature="method#initStats#0;class#WoCoServer#0" />
+                <element signature="method#initClientStats#0;class#WoCoServer#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>respTime</find>
+      <find>socket</find>
+      <find>printSt</find>
+      <find>thread</find>
+      <find>readcnt</find>
+      <find>beforeword</find>
+      <find>Collections.sort</find>
+      <find>clientId</find>
+      <find>buffer</find>
+      <find>Thread</find>
+      <find>system.out</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/imdea/software/ClientTimes.java" />
+        <option value="$PROJECT_DIR$/src/org/imdea/software/ParallelServer.java" />
+        <option value="$PROJECT_DIR$/src/org/imdea/software/WoCoServer.java" />
+        <option value="$PROJECT_DIR$/src/org/imdea/software/WoCoClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="986" />
+    <option name="y" value="24" />
+    <option name="width" value="934" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544291905755" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/WordCounter" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jars" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WoCoServer">
+    <configuration name="ParallelServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.imdea.software.ParallelServer" />
+      <module name="WordCounter" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 3000 true 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.imdea.software.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WoCoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.imdea.software.WoCoClient" />
+      <module name="WordCounter" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 3000 5 1 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.imdea.software.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WoCoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.imdea.software.WoCoServer" />
+      <module name="WordCounter" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 3000 true 8 -Xmx14000m" />
+      <option name="VM_PARAMETERS" value="-Xmx14000m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.imdea.software.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WoCoServer" />
+      <item itemvalue="Application.WoCoClient" />
+      <item itemvalue="Application.ParallelServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WoCoServer" />
+        <item itemvalue="Application.WoCoClient" />
+        <item itemvalue="Application.ParallelServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed58ead1-a89b-486a-bfc3-83a28c5c5bc7" name="Default Changelist" comment="" />
+      <created>1543406761312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543406761312</updated>
+      <workItem from="1543406762624" duration="102000" />
+      <workItem from="1543408356601" duration="245000" />
+      <workItem from="1543490480069" duration="6992000" />
+      <workItem from="1543529552267" duration="48000" />
+      <workItem from="1543529653945" duration="7653000" />
+      <workItem from="1543574882692" duration="9959000" />
+      <workItem from="1543761870258" duration="599000" />
+      <workItem from="1543833083749" duration="320000" />
+      <workItem from="1543834422171" duration="13310000" />
+      <workItem from="1543931326915" duration="1198000" />
+      <workItem from="1543937710426" duration="1885000" />
+      <workItem from="1544017123843" duration="1904000" />
+      <workItem from="1544086442950" duration="21814000" />
+      <workItem from="1544192166052" duration="277000" />
+      <workItem from="1544197347676" duration="14300000" />
+      <workItem from="1544292072507" duration="1189000" />
+      <workItem from="1544344465918" duration="4483000" />
+      <workItem from="1544431131660" duration="5039000" />
+      <workItem from="1544525964703" duration="7500000" />
+      <workItem from="1544538161943" duration="391000" />
+      <workItem from="1544539601271" duration="1100000" />
+      <workItem from="1544540870198" duration="21000" />
+      <workItem from="1544541718583" duration="1220000" />
+      <workItem from="1544623491384" duration="3089000" />
+      <workItem from="1544628497635" duration="1856000" />
+      <workItem from="1544634532668" duration="1645000" />
+      <workItem from="1544707237015" duration="1862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110001000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="986" y="24" width="934" height="1056" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1768018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30793318" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32985386" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.3487095" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995495" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="init" isVisible="false" />
+        <filter targetName="compile" isVisible="true" />
+        <filter targetName="dist" isVisible="true" />
+        <filter targetName="clean" isVisible="true" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/imdea/software/ParallelServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/imdea/software/ClientTimes.java" />
+    <entry file="file://$PROJECT_DIR$/jars/input.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/imdea/software/WoCoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="361" column="31" lean-forward="true" selection-start-line="361" selection-start-column="31" selection-end-line="362" selection-end-column="45" />
+          <folding>
+            <element signature="docComment;method#WoCoServer#0;class#WoCoServer#0" />
+            <element signature="docComment;method#receiveData#0;class#WoCoServer#0" />
+            <element signature="method#initStats#0;class#WoCoServer#0" />
+            <element signature="method#initClientStats#0;class#WoCoServer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/imdea/software/WoCoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#WoCoClient#0;class#WoCoClient#0" />
+            <element signature="docComment;method#shutDown#0;class#WoCoClient#0" />
+            <element signature="method#shutDown#0;class#WoCoClient#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
